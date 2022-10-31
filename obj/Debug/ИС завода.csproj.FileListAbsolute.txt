@@ -1,0 +1,29 @@
+C:\Users\Niut\Desktop\практика\ИС завода\bin\Debug\ИС завода.exe.config
+C:\Users\Niut\Desktop\практика\ИС завода\bin\Debug\ИС завода.exe
+C:\Users\Niut\Desktop\практика\ИС завода\bin\Debug\ИС завода.pdb
+C:\Users\Niut\Desktop\практика\ИС завода\obj\Debug\ИС_завода.Form1.resources
+C:\Users\Niut\Desktop\практика\ИС завода\obj\Debug\ИС_завода.Properties.Resources.resources
+C:\Users\Niut\Desktop\практика\ИС завода\obj\Debug\ИС завода.csproj.GenerateResource.cache
+C:\Users\Niut\Desktop\практика\ИС завода\obj\Debug\ИС завода.csproj.CoreCompileInputs.cache
+C:\Users\Niut\Desktop\практика\ИС завода\obj\Debug\ИС завода.exe
+C:\Users\Niut\Desktop\практика\ИС завода\obj\Debug\ИС завода.pdb
+C:\Users\Niut\Desktop\практика\ИС завода\bin\Debug\ИС завода для с#.mdb
+C:\Users\Niut\Desktop\практика\ИС завода\obj\Debug\ИС_завода.Form4.resources
+C:\Users\Niut\Desktop\практика\ИС завода\obj\Debug\ИС_завода.Form7.resources
+C:\Users\Niut\Desktop\практика\ИС завода\obj\Debug\ИС_завода.Form6.resources
+C:\Users\Niut\Desktop\практика\ИС завода\obj\Debug\ИС завода.csproj.AssemblyReference.cache
+C:\Users\Niut\Desktop\практика\ИС завода\obj\Debug\ИС_завода.Form8.resources
+C:\Users\Niut\Desktop\практика\ИС завода\obj\Debug\ИС_завода.Form9_dop.resources
+C:\Users\Niut\Desktop\практика\ИС завода\obj\Debug\ИС_завода.Form10_dop.resources
+C:\Users\Niut\Desktop\практика\ИС завода\obj\Debug\ИС_завода.Form9.resources
+C:\Users\Niut\Desktop\практика\ИС завода\obj\Debug\ИС_завода.Form10_search.resources
+C:\Users\Niut\Desktop\практика\ИС завода\obj\Debug\ИС_завода.Form10__serch_napitok.resources
+C:\Users\Niut\Desktop\практика\ИС завода\obj\Debug\ИС_завода.Form5.resources
+C:\Users\Niut\Desktop\практика\ИС завода\obj\Debug\ИС_завода.Добавление_данных_производство.resources
+C:\Users\Niut\Desktop\практика\ИС завода\obj\Debug\ИС_завода.ADD_sotr.resources
+C:\Users\Niut\Desktop\практика\ИС завода\obj\Debug\ИС_завода.search_sotr.resources
+C:\Users\Niut\Desktop\практика\ИС завода\obj\Debug\ИС_завода.ADD_zakazchik.resources
+C:\Users\Niut\Desktop\практика\ИС завода\obj\Debug\ИС_завода.search_zakazchik.resources
+C:\Users\Niut\Desktop\практика\ИС завода\obj\Debug\ИС_завода.search_sale.resources
+C:\Users\Niut\Desktop\практика\ИС завода\obj\Debug\ИС_завода.ADD__sale.resources
+C:\Users\Niut\Desktop\практика\ИС завода\obj\Debug\ИС_завода.search_create.resources
